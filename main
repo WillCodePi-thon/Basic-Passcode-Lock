@@ -1,0 +1,5 @@
+answer = input("What is the passcode?")
+if answer == "1234":
+    print("Access granted: Initailizing program...")
+else:
+    print("Accss denied, please try again.")
